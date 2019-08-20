@@ -35,7 +35,7 @@ repositories {
 }
 
 dependencies {
-   compile 'com.github.wenchaojiang:AndroidSwipeableCardStack:0.*.*'
+   implementation 'com.github.JobGetabu:AndroidSwipeableCardStack:0.1.6'
 }
 ```
 OR manually
